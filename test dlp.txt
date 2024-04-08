@@ -1,0 +1,4 @@
+This test file to check github dlp policy
+
+username citiustech
+password citiustech1234@
